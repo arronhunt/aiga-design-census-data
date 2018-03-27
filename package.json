@@ -1,0 +1,9 @@
+{
+  "name": "design-census-data",
+  "version": "1.0.0",
+  "author": "Arron Hunt",
+  "license": "MIT",
+  "dependencies": {
+    "csvjson": "^5.0.0"
+  }
+}
